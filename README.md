@@ -9,7 +9,7 @@ Projeto React utilizando Typescript desenvolvido na trilha React do Campinas Tec
 
 ```bash
 $ git clone https://github.com/biagavirete/testing_with_jest.git
-$ cd testing_with_jesy
+$ cd testing_with_jest
 ```
 
 **Para rodar**
